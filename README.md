@@ -20,4 +20,4 @@ Elementos pequenos na tela que são clicáveis ou tocáveis são podem ser desag
 
 ## Navegação com teclado
 
-...
+Não todas as pessoas em um computador são capazes de usar mouse, seja por limitações de visão ou movimento, então é importante que o desenvolvedor tenha feito uma navegação por teclado que esteja na ordem do conteúdo e dê a possibilidade de saltar aquelas parte repetidas de página a página como o cabeçalho e a navegação. Inclusive ao fim do conteúdo principal disponibilizar uma forma de voltar ao início.
