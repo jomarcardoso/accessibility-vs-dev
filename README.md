@@ -8,8 +8,14 @@ Mas então quais são tarefas do desenvolvedor? Vou listar algumas delas.
 
 ## Seguir padrões de desenvolvimento
 
-Independente da interface que está sendo usada, seja Web, aplicativo ou desktop, os elementos que irão compor essas aplicações devem ser semânticos (que sejam entendidos além do seu visual), como também organizados em ordem, para que possam ser entendidos.
+Independente da interface que está sendo usada, seja Web, aplicativo ou desktop, os elementos que irão compor essas aplicações devem ser semânticos (que sejam entendidos além do seu visual), como também organizados em ordem, para que possam ser entendidos. Um botão, uma lista, um título ou qualquer elemento, deve ter seu significado além do que está sendo visto em tela.
 
 ## Usar alternativa textual
 
 O mais famoso trabalho do desenvovedor em relação a acessibilidade, e talvez o único que eu conhecia antes de estudar sobre o assunto. Um texto alternativo nada mais é que um texto para explicar qualquer coisa que não seja de estrutural que esteja em tela. Engana-se em pensar que isso benefinicia apenas pessoas cegas, o texto alternativo é muito empregado em imagens, mas também pode ser usado em vídeos e áudios, as legendas.
+
+## Área de toque mínima
+
+...
+
+
