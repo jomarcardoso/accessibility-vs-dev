@@ -16,6 +16,8 @@ O mais famoso trabalho do desenvovedor em relação a acessibilidade, e talvez o
 
 ## Área de toque mínima
 
+Elementos pequenos na tela que são clicáveis ou tocáveis são podem ser desagradáveis para qualquer, mas a situação da pessoa pode piorar se ela tem alguma limitação motora como navegar com por mouse de botões, usando os pés ou até alguma doença que comprometa a precisão de seus movimentos ou de sua visão.
+
+## Navegação com teclado
+
 ...
-
-
