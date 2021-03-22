@@ -14,6 +14,8 @@ Independente da interface que está sendo usada, seja Web, aplicativo ou desktop
 
 O mais famoso trabalho do desenvovedor em relação a acessibilidade, e talvez o único que eu conhecia antes de estudar sobre o assunto. Um texto alternativo nada mais é que um texto para explicar qualquer coisa que não seja de estrutural que esteja em tela. Engana-se em pensar que isso benefinicia apenas pessoas cegas, o texto alternativo é muito empregado em imagens, mas também pode ser usado em vídeos e áudios, as legendas.
 
+Mas assim como quase tudo na acessibilidade, o texto alternativo também não é apenas para pessoas com deficiência, a prova disso é quando você vê aquele ícone e não sabe o que aquilo faz e coloca o mouse sobre ele na esperança de que apareça um texto explicando o que aquele símbolo significa. Este é um bom exemplo para quem não tem uma grande limição sensorial entender que se para ela um texto auxiliar é útil, imagina para uma pessoa que não enxerga ou alguma que te deficiência de raciocínio.
+
 ## Área de toque mínima
 
 Elementos pequenos na tela que são clicáveis ou tocáveis são podem ser desagradáveis para qualquer, mas a situação da pessoa pode piorar se ela tem alguma limitação motora como navegar com por mouse de botões, usando os pés ou até alguma doença que comprometa a precisão de seus movimentos ou de sua visão.
