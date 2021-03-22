@@ -22,12 +22,12 @@ Elementos pequenos na tela que são clicáveis ou tocáveis são podem ser desag
 
 Não todas as pessoas em um computador são capazes de usar mouse, seja por limitações de visão ou movimento, então é importante que o desenvolvedor tenha feito uma navegação por teclado que esteja na ordem e com um foco visível para aqueles que têm visão porém não navegam usando mouse.
 
-![image](https://user-images.githubusercontent.com/27368585/112067430-cc826000-8b46-11eb-8361-0793bced04be.png)
+![amostra do site Terra de como ele mostra o foco visível](https://user-images.githubusercontent.com/27368585/112067430-cc826000-8b46-11eb-8361-0793bced04be.png)
 
 ## Saltos de conteúdos
 
 Dar a possibilidade de saltar aquelas parte repetidas de página a página como o cabeçalho e a navegação. Inclusive ao fim do conteúdo principal disponibilizar uma forma de voltar ao início.
 
-<img src="https://user-images.githubusercontent.com/27368585/112067548-fd629500-8b46-11eb-9099-d2cf31c82ff5.png" alt="amostra de como o youtube mostra o salto de conteúdos" style="border=4px solid black">
+![amostra de como o Youtube mostra o salto de conteúdo](https://user-images.githubusercontent.com/27368585/112067736-54686a00-8b47-11eb-8e13-55356c3a60e0.png)
 
 
