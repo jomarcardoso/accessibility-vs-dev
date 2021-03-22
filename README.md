@@ -28,6 +28,6 @@ Não todas as pessoas em um computador são capazes de usar mouse, seja por limi
 
 Dar a possibilidade de saltar aquelas parte repetidas de página a página como o cabeçalho e a navegação. Inclusive ao fim do conteúdo principal disponibilizar uma forma de voltar ao início.
 
-![image](https://user-images.githubusercontent.com/27368585/112067192-6e557d00-8b46-11eb-8a77-9e943f0f5003.png)
+<img src="https://user-images.githubusercontent.com/27368585/112067548-fd629500-8b46-11eb-9099-d2cf31c82ff5.png" alt="amostra de como o youtube mostra o salto de conteúdos" style="border=4px solid black">
 
 
