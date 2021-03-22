@@ -6,9 +6,11 @@ O desenvolvedor é capaz de usar texto alternativo para imagens, cuidar a ordem 
 
 Mas então quais são tarefas do desenvolvedor? Vou listar algumas delas.
 
-## Seguir padrões de desenvolvimento
+## Elementos semânticos
 
 Independente da interface que está sendo usada, seja Web, aplicativo ou desktop, os elementos que irão compor essas aplicações devem ser semânticos (que sejam entendidos além do seu visual), como também organizados em ordem, para que possam ser entendidos. Um botão, uma lista, um título ou qualquer elemento, deve ter seu significado além do que está sendo visto em tela.
+
+## Sequência lógica
 
 ## Usar alternativa textual
 
@@ -39,4 +41,5 @@ Dar a possibilidade de saltar aquelas parte repetidas de página a página como 
 ## Idioma
 
 ...
+
 
