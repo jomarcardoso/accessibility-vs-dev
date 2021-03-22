@@ -32,4 +32,8 @@ Dar a possibilidade de saltar aquelas parte repetidas de página a página como 
 
 ![amostra de como o Youtube mostra o salto de conteúdo](https://user-images.githubusercontent.com/27368585/112067736-54686a00-8b47-11eb-8e13-55356c3a60e0.png)
 
+## Teclas de atalho
+
+...
+
 
