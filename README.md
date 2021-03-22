@@ -19,6 +19,8 @@ Os títulos também devem seguir uma hierarquia para que o usuário que usar um 
 
 ![demonstração do aninhamento dos títulos de uma página web](https://user-images.githubusercontent.com/27368585/112071593-ddcf6a80-8b4e-11eb-94d2-0ca137c24522.png)
 
+<small>fonte: https://www.w3.org/WAI/test-evaluate/preliminary/</small>
+
 ## Usar alternativa textual
 
 O mais famoso trabalho do desenvovedor em relação a acessibilidade, e talvez o único que eu conhecia antes de estudar sobre o assunto. Um texto alternativo nada mais é que um texto para explicar qualquer coisa que não seja de estrutural que esteja em tela. Engana-se em pensar que isso benefinicia apenas pessoas cegas, o texto alternativo é muito empregado em imagens, mas também pode ser usado em vídeos e áudios, as legendas.
