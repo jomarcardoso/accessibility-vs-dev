@@ -13,6 +13,12 @@ Independente da interface que está sendo usada, seja Web, aplicativo ou desktop
 
 ## Sequência lógica
 
+O desenvolvedor pode se deparar com a situação em que a versão desktop está com uma sequência correta e ao adaptar para o mobile o conteúdo perdeu a ordem que ele queria (mais um motivo para pensar no mobile primeiro), aí para corrigir isso ele aplica um estilo que ajuste a ordem do conteúdo... Errado visualmente mudou alguma coisa, mas para a navegação com teclado e para leitores de tela aquele conteúdo continua na mesma sequência.
+
+Os títulos também devem seguir uma hierarquia para que o usuário que usar um leitor de telas possa compreender e encontrar o conteúdo que ele deseja (falar sobre os atalhos para headings https://medium.com/@jovoloski/39f13a325366). Os títulos formam uma hierarquia igual aquela utilizada em TCCs, por isso não devemos pular algum deles devido ao seu estilo e muito menos deixar de usar.
+
+![demonstração do aninhamento dos títulos de uma página web](https://user-images.githubusercontent.com/27368585/112071593-ddcf6a80-8b4e-11eb-94d2-0ca137c24522.png)
+
 ## Usar alternativa textual
 
 O mais famoso trabalho do desenvovedor em relação a acessibilidade, e talvez o único que eu conhecia antes de estudar sobre o assunto. Um texto alternativo nada mais é que um texto para explicar qualquer coisa que não seja de estrutural que esteja em tela. Engana-se em pensar que isso benefinicia apenas pessoas cegas, o texto alternativo é muito empregado em imagens, mas também pode ser usado em vídeos e áudios, as legendas.
