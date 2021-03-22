@@ -36,4 +36,7 @@ Dar a possibilidade de saltar aquelas parte repetidas de página a página como 
 
 ...
 
+## Idioma
+
+...
 
