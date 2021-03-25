@@ -5,6 +5,8 @@ Um dos maiores equívocos de uma empresa, em relação a acessibilidade, é espe
 
 Em projetos de acessibilidade não organizados é comum o desenvolver assumir praticamente toda as responsabilidades, dentre elas, contraste mínimo, espaçamentos mínimos entre conteúdos, tamanho de fonte mínimo, foco visível, mensagens não baseadas apenas em informações sensoriais (cor, som...), conteúdo compatível com diversas telas, e vários outro exemplos. Essa foi uma amostra de tarefas que seriam um problema o programador cuidar, pois por exemplo como ele faria para seguir um contraste se o designer criou um layout sem prever isso, ou como ele resolveria um texto de difícil entendimento se este foi decidido por outros membros da empresa.
 
+Bom, mas para que os devs que estão lendo não pensem que não tem trabalho, fiz uma lista das principais tarefas de um desenvolvedor em projetos com acessibilidade.
+
 ## Elementos semânticos
 
 Independente da interface que está sendo usada, seja Web, aplicativo ou desktop, os elementos que irão compor essas aplicações devem ser semânticos (que sejam entendidos além do seu visual), como também organizados em ordem, para que possam ser entendidos. Um botão, uma lista, um título ou qualquer elemento, deve ter seu significado além do que está sendo visto em tela.
@@ -43,10 +45,10 @@ Dar a possibilidade de saltar aquelas parte repetidas de página a página como 
 
 ## Teclas de atalho
 
-...
+Sabemos que quando trabalhamos com algum software todos os dias, vamos aos poucos pegando seus atalhos e nos tornando mais produtivos. Além de auxiliar no rendimento os atalhos podem auxiliar muito para pessoas que não usam mouse e ou não enxergam.
 
 ## Idioma
 
-...
+Não, as páginas e aplicativos não precisam estar traduzidas para todos os idiomas, porém é preciso especificar o idioma para que leitores de tela façam a correta leitura.
 
 
