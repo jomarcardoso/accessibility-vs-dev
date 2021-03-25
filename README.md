@@ -45,7 +45,7 @@ Dar a possibilidade de saltar aquelas parte repetidas de página a página como 
 
 ## Teclas de atalho
 
-Sabemos que quando trabalhamos com algum software todos os dias, vamos aos poucos pegando seus atalhos e nos tornando mais produtivos. Além de auxiliar no rendimento os atalhos podem auxiliar muito para pessoas que não usam mouse e ou não enxergam.
+Sabemos que quando trabalhamos com algum software todos os dias, vamos aos poucos pegando seus atalhos e nos tornando mais produtivos. Agora, imagine o quanto além de ajudar no rendimento os atalhos podem auxiliar muito as pessoas que não usam mouse e ou não enxergam.
 
 ## Idioma
 
