@@ -3,9 +3,7 @@
 
 Um dos maiores equívocos de uma empresa, em relação a acessibilidade, é esperar da equipe de desenvolvimento a iniciativa de tornar seu seus sites ou aplicativos acessíveis. A participação do dev é essencial, mas a organização de um projeto acessível deve envolver todos profissionais responsáveis, desde o conteudista, designer, até os profissionais envolvidos da qualidade.
 
-O desenvolvedor é capaz de usar texto alternativo para imagens, cuidar a ordem e a semântica dos elementos que estão em tela ou fazer os saltos de conteúdos muito úteis para com deficiência chegar antes ao que lhe interessa. Já questões como contraste mínimo, texto de fácil interpretação e espaçamentos do mínimos do layout são questões que fogem da sua responsabilidade e precisam da cooperação de todos.
-
-Mas então quais são tarefas do desenvolvedor? Vou listar algumas delas.
+Em projetos de acessibilidade não organizados é comum o desenvolver assumir praticamente toda as responsabilidades, dentre elas, contraste mínimo, espaçamentos mínimos entre conteúdos, tamanho de fonte mínimo, foco visível, mensagens não baseadas apenas em informações sensoriais (cor, som...), conteúdo compatível com diversas telas, e vários outro exemplos. Essa foi uma amostra de tarefas que seriam um problema o programador cuidar, pois por exemplo como ele faria para seguir um contraste se o designer criou um layout sem prever isso, ou como ele resolveria um texto de difícil entendimento se este foi decidido por outros membros da empresa.
 
 ## Elementos semânticos
 
