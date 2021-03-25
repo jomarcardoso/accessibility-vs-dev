@@ -29,7 +29,7 @@ Mas assim como quase tudo na acessibilidade, o texto alternativo também não é
 
 ## Área de toque mínima
 
-Elementos pequenos na tela que são clicáveis ou tocáveis são podem ser desagradáveis para qualquer, mas a situação da pessoa pode piorar se ela tem alguma limitação motora como navegar com por mouse de botões, usando os pés ou até alguma doença que comprometa a precisão de seus movimentos ou de sua visão.
+Elementos pequenos na tela que são clicáveis ou tocáveis podem ser desagradáveis para qualquer, mas a situação da pessoa pode piorar se ela tem alguma limitação motora como navegar com por mouse de botões, usando os pés ou até alguma doença que comprometa a precisão de seus movimentos ou de sua visão. Apesar de não ser o ideal, as vezes a área de toque pode ser maior que o elemento visual, isso é uma solução que está em poder do desenvolvedor também.
 
 ## Navegação com teclado
 
