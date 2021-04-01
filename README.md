@@ -31,9 +31,9 @@ Mas assim como quase tudo na acessibilidade, o texto alternativo também não é
 
 Elementos pequenos na tela que são clicáveis ou tocáveis podem ser desagradáveis para qualquer, mas a situação da pessoa pode piorar se ela tem alguma limitação motora como navegar com por mouse de botões, usando os pés ou até alguma doença que comprometa a precisão de seus movimentos ou de sua visão. Apesar de não ser o ideal, as vezes a área de toque pode ser maior que o elemento visual, isso é uma solução que está em poder do desenvolvedor também.
 
-## Navegação com teclado
+## Navegação com teclado (computador)
 
-Não todas as pessoas em um computador são capazes de usar mouse, seja por limitações de visão ou movimento, então é importante que o desenvolvedor tenha feito uma navegação por teclado que esteja na ordem e com um foco visível para aqueles que têm visão porém não navegam usando mouse.
+Nem todas as pessoas em um computador são capazes de usar mouse, seja por limitações de visão ou movimento, então é importante que o desenvolvedor tenha feito uma navegação por teclado que esteja na ordem correta de leitura e com um foco visível para aqueles que têm visão porém não navegam usando mouse.
 
 ![amostra do site Terra de como ele mostra o foco visível](https://user-images.githubusercontent.com/27368585/112067430-cc826000-8b46-11eb-8361-0793bced04be.png)
 
