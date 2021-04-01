@@ -43,9 +43,11 @@ Dar a possibilidade de saltar aquelas parte repetidas de página a página como 
 
 ![amostra de como o Youtube mostra o salto de conteúdo](https://user-images.githubusercontent.com/27368585/112067736-54686a00-8b47-11eb-8e13-55356c3a60e0.png)
 
+Essa técnica é bem simples de ser aplicada, basta o desenvolvedor colocar a regra que o elemento deve ficar escondido até enquanto não estiver em foco, ou seja, o elemento não aparecerá em tela, a não se que o usuário use o teclado, com a tecla "tab" e chegue no elemento.
+
 ## Teclas de atalho
 
-Sabemos que quando trabalhamos com algum software todos os dias, vamos aos poucos pegando seus atalhos e nos tornando mais produtivos. Agora, imagine o quanto além de ajudar no rendimento os atalhos podem auxiliar muito as pessoas que não usam mouse e ou não enxergam.
+Sabemos que quando trabalhamos com algum software todos os dias, vamos aos poucos pegando seus atalhos e nos tornando mais produtivos. Agora, imagine o quanto além de ajudar no rendimento os atalhos podem auxiliar as pessoas que não usam mouse e ou não enxergam.
 
 ## Idioma
 
