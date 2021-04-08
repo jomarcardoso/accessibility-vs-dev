@@ -19,6 +19,8 @@ Os títulos também devem seguir uma hierarquia para que o usuário que usar um 
 
 <p align="center">
   <img alt="demonstração do aninhamento dos títulos de uma página web" src="https://user-images.githubusercontent.com/27368585/112071593-ddcf6a80-8b4e-11eb-94d2-0ca137c24522.png">
+</p>
+<p align="center">
   <small>fonte: https://www.w3.org/WAI/test-evaluate/preliminary/</small>
 </p>
 
