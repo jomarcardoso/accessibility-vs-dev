@@ -38,13 +38,17 @@ Elementos pequenos na tela que são clicáveis ou tocáveis podem ser desagradá
 
 Nem todas as pessoas em um computador são capazes de usar mouse, seja por limitações de visão ou movimento, então é importante que o desenvolvedor tenha feito uma navegação por teclado que esteja na ordem correta de leitura e com um foco visível para aqueles que têm visão porém não navegam usando mouse.
 
-![amostra do site Terra de como ele mostra o foco visível](https://user-images.githubusercontent.com/27368585/112067430-cc826000-8b46-11eb-8361-0793bced04be.png)
+<p align="center">
+  <img alt="amostra do site Terra de como ele mostra o foco visível" src="https://user-images.githubusercontent.com/27368585/112067430-cc826000-8b46-11eb-8361-0793bced04be.png">
+</p>
 
 ## Saltos de conteúdos
 
 Dar a possibilidade de saltar aquelas parte repetidas de página a página como o cabeçalho e a navegação. Inclusive ao fim do conteúdo principal disponibilizar uma forma de voltar ao início.
 
-![amostra de como o Youtube mostra o salto de conteúdo](https://user-images.githubusercontent.com/27368585/112067736-54686a00-8b47-11eb-8e13-55356c3a60e0.png)
+<p align="center">
+  <img alt="amostra de como o Youtube mostra o salto de conteúdo" src="https://user-images.githubusercontent.com/27368585/112067736-54686a00-8b47-11eb-8e13-55356c3a60e0.png">
+</p>
 
 Essa técnica é bem simples de ser aplicada, basta o desenvolvedor colocar a regra que o elemento deve ficar escondido até enquanto não estiver em foco, ou seja, o elemento não aparecerá em tela, a não se que o usuário use o teclado, com a tecla "tab" e chegue no elemento.
 
@@ -55,9 +59,3 @@ Sabemos que quando trabalhamos com algum software todos os dias, vamos aos pouco
 ## Idioma
 
 Não, as páginas e aplicativos não precisam estar traduzidas para todos os idiomas, porém é preciso especificar o idioma para que leitores de tela façam a correta leitura.
-
----
-
-# Referências
-
-https://www.youtube.com/watch?v=fha81cO2Cng&t=2977s
