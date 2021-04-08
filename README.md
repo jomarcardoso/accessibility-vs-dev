@@ -15,9 +15,11 @@ Independente da interface que está sendo usada, seja Web, aplicativo ou desktop
 
 O desenvolvedor pode se deparar com a situação em que a versão desktop está com uma sequência de leitura correta e ao adaptar para o mobile o conteúdo perdeu a ordem que ele queria (mais um motivo para pensar no mobile primeiro), aí para corrigir isso ele aplica um estilo que ajuste a ordem do conteúdo... Errado, pois visualmente mudou alguma coisa, mas para a navegação com teclado e para leitores de tela aquele conteúdo continua na mesma sequência de leitura, o que pode ser ruim de navegar e não ter fazer sentido a leitura.
 
-Os títulos também devem seguir uma hierarquia para que o usuário que usar um leitor de telas possa compreender e encontrar o conteúdo que ele deseja com mais facilidade, como mencionado pela [Joanna Voloski em seu artigo](https://medium.com/@jovoloski/39f13a325366). Os títulos formam uma hierarquia igual aquela utilizada em TCCs, por isso não devemos pular algum deles devido ao seu estilo e muito menos deixar de usar.
+Os títulos também devem seguir uma hierarquia para que o usuário que usar um leitor de telas possa compreender e encontrar o conteúdo que ele deseja com mais facilidade, como mencionado pela [Joanna Voloski em seu artigo](https://medium.com/@jovoloski/39f13a325366). Os títulos formam uma hierarquia igual aquela utilizada em TCCs, por isso não devemos pular eles por motivo algum, por que assim como pessoas que enxergam rolam rapidamente a página para procurar a seção de conteúdo que querem ler, o mesmo dever poder ser feito por pessoas usando leitores de tela.
 
-![demonstração do aninhamento dos títulos de uma página web](https://user-images.githubusercontent.com/27368585/112071593-ddcf6a80-8b4e-11eb-94d2-0ca137c24522.png)
+<p align="center">
+  <img alt="demonstração do aninhamento dos títulos de uma página web" src="https://user-images.githubusercontent.com/27368585/112071593-ddcf6a80-8b4e-11eb-94d2-0ca137c24522.png">
+</p>
 
 <small>fonte: https://www.w3.org/WAI/test-evaluate/preliminary/</small>
 
