@@ -1,21 +1,21 @@
 # Acessibilidade: O desenvolvedor não é responsável por tudo
 > mas boa parte é ele que faz
 
-Um dos maiores equívocos de uma empresa, em relação a acessibilidade, é esperar da equipe de desenvolvimento a iniciativa de tornar seu seus sites ou aplicativos acessíveis. A participação do dev é essencial, mas a organização de um projeto acessível deve envolver todos profissionais responsáveis, desde o conteudista, designer, até os profissionais envolvidos da qualidade.
+Um dos maiores equívocos de uma empresa em relação a acessibilidade, é esperar da equipe de desenvolvimento a iniciativa de tornar seu seus sites ou aplicativos acessíveis. A participação do dev é essencial, mas a organização de um projeto acessível deve envolver todos profissionais responsáveis, desde o conteudista, designer, até os profissionais  da qualidade.
 
-Em projetos de acessibilidade não organizados é comum o desenvolver assumir praticamente toda as responsabilidades, dentre elas, contraste mínimo, espaçamentos mínimos entre conteúdos, tamanho de fonte mínimo, foco visível, mensagens não baseadas apenas em informações sensoriais (cor, som...), conteúdo compatível com diversas telas, e vários outro exemplos. Essa foi uma amostra de tarefas que seriam um problema o programador cuidar, pois por exemplo como ele faria para seguir um contraste se o designer criou um layout sem prever isso, ou como ele resolveria um texto de difícil entendimento se este foi decidido por outros membros da empresa.
+Em projetos de acessibilidade não organizados é comum o desenvolver assumir praticamente toda as responsabilidades, dentre elas, contraste mínimo, espaçamentos mínimos entre conteúdos, tamanho de fonte mínimo, foco visível, mensagens não baseadas apenas em informações sensoriais (cor, som...), conteúdo compatível com diversas telas, e vários outros exemplos. Essa foi uma amostra de tarefas que seriam um problema o programador cuidar, pois por exemplo como ele faria para seguir um contraste se o designer criou um layout sem prever isso? Ou como ele resolveria um texto de difícil entendimento se este foi decidido por outros membros da empresa?
 
-Bom, mas para que os devs que estão lendo não pensem que não tem trabalho, fiz uma lista das principais tarefas de um desenvolvedor em projetos com acessibilidade.
+Bom, para que os devs que estão lendo, não pensem que não tem trabalho, fiz uma lista das principais tarefas de um desenvolvedor em projetos com acessibilidade.
 
 ## Elementos semânticos
 
-Independente da interface que está sendo usada, seja Web, aplicativo ou desktop, os elementos que irão compor essas aplicações devem ser semânticos (que sejam entendidos além do seu visual), como também organizados em ordem, para que possam ser entendidos. Um botão, uma lista, um título ou qualquer elemento, deve ter seu significado além do que está sendo visto em tela.
+Independente da interface que está sendo usada, seja Web, aplicativo ou desktop, os elementos que irão compor essas aplicações devem ser semântico, que sejam entendidos além do seu visual, como também organizados em ordem, para que possam ser entendidos. Um botão, uma lista, um título ou qualquer elemento, deve ter seu significado além do que está sendo visto em tela. [Lêda Spelta, que é deficiente visual, em um vídeo seu](https://www.youtube.com/watch?v=fha81cO2Cng&t=2977s) conta a experiência de ser instruída a pressionar um botão na tela que segundo ela semanticamente não era um botão, só tinha a aparência, e consequentemente não conseguiu encontrar.
 
 ## Sequência lógica
 
-O desenvolvedor pode se deparar com a situação em que a versão desktop está com uma sequência correta e ao adaptar para o mobile o conteúdo perdeu a ordem que ele queria (mais um motivo para pensar no mobile primeiro), aí para corrigir isso ele aplica um estilo que ajuste a ordem do conteúdo... Errado visualmente mudou alguma coisa, mas para a navegação com teclado e para leitores de tela aquele conteúdo continua na mesma sequência.
+O desenvolvedor pode se deparar com a situação em que a versão desktop está com uma sequência de leitura correta e ao adaptar para o mobile o conteúdo perdeu a ordem que ele queria (mais um motivo para pensar no mobile primeiro), aí para corrigir isso ele aplica um estilo que ajuste a ordem do conteúdo... Errado, pois visualmente mudou alguma coisa, mas para a navegação com teclado e para leitores de tela aquele conteúdo continua na mesma sequência de leitura, o que pode ser ruim de navegar e não ter fazer sentido a leitura.
 
-Os títulos também devem seguir uma hierarquia para que o usuário que usar um leitor de telas possa compreender e encontrar o conteúdo que ele deseja (falar sobre os atalhos para headings https://medium.com/@jovoloski/39f13a325366). Os títulos formam uma hierarquia igual aquela utilizada em TCCs, por isso não devemos pular algum deles devido ao seu estilo e muito menos deixar de usar.
+Os títulos também devem seguir uma hierarquia para que o usuário que usar um leitor de telas possa compreender e encontrar o conteúdo que ele deseja com mais facilidade, como mencionado pela [Joanna Voloski em seu artigo](https://medium.com/@jovoloski/39f13a325366). Os títulos formam uma hierarquia igual aquela utilizada em TCCs, por isso não devemos pular algum deles devido ao seu estilo e muito menos deixar de usar.
 
 ![demonstração do aninhamento dos títulos de uma página web](https://user-images.githubusercontent.com/27368585/112071593-ddcf6a80-8b4e-11eb-94d2-0ca137c24522.png)
 
@@ -53,4 +53,8 @@ Sabemos que quando trabalhamos com algum software todos os dias, vamos aos pouco
 
 Não, as páginas e aplicativos não precisam estar traduzidas para todos os idiomas, porém é preciso especificar o idioma para que leitores de tela façam a correta leitura.
 
+---
 
+# Referências
+
+https://www.youtube.com/watch?v=fha81cO2Cng&t=2977s
