@@ -59,3 +59,8 @@ Sabemos que quando trabalhamos com algum software todos os dias, vamos aos pouco
 ## Idioma
 
 Não, as páginas e aplicativos não precisam estar traduzidas para todos os idiomas, porém é preciso especificar o idioma para que leitores de tela façam a correta leitura.
+
+> Material auxiliar
+> ---
+
+- [apresentação de slides](https://docs.google.com/presentation/d/1OW480D_WhBQ6QJLdVQqJPDH4ZndlRWzvjxboQHbJQZ4/edit?usp=sharing)
