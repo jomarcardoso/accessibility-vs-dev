@@ -60,6 +60,14 @@ Sabemos que quando trabalhamos com algum software todos os dias, vamos aos pouco
 
 Não, as páginas e aplicativos não precisam estar traduzidas para todos os idiomas, porém é preciso especificar o idioma para que leitores de tela façam a correta leitura.
 
+## Não: Recarregar páginas
+
+A tarefa do dev aqui seria fazer uma implementação que não recarregue a página. Depois do Ajax não precisamos mais carregar uma página nova a cada interação, como envio e formulário ou algum clique para abrir algum elemento.
+
+## Não: Bloquear zoom
+
+O desenvolvedor deve ser capaz de fazer o conteúdo caber em uma de de 320px por 320px, segundo recomendações do W3C.
+
 <br>
 
 > Material auxiliar
