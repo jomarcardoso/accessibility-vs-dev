@@ -58,7 +58,7 @@ O desenvolvedor deve ser capaz de fazer o conteúdo caber em uma de de 320px por
 
 ## Teclas de atalho
 
-Sabemos que quando trabalhamos com algum software todos os dias, vamos aos poucos pegando seus atalhos e nos tornando mais produtivos. Agora, imagine o quanto além de ajudar no rendimento os atalhos podem auxiliar as pessoas que não usam mouse e ou não enxergam.
+Sabemos que quando trabalhamos com algum software todos os dias, vamos aos poucos pegando seus atalhos e nos tornando mais produtivos. Agora, imagine o quanto além de ajudar no rendimento os atalhos podem auxiliar as pessoas que não usam mouse e ou não enxergam. Pensando no simples ato de salvar um arquivo em um editor de textos como Word, é bem intuitivo usarmos o famoso CTRL + S, porém sem esse atalho teríamos apenas formas mais trabalhosas de fazer o mesmo, com o mouse, acessando a aba arquivo e percorrer até salvar, ou com o teclado, precionando a tecla ALT e descer até a mesma opção. 
 
 ## Idioma
 
