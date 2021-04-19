@@ -52,6 +52,10 @@ Dar a possibilidade de saltar aquelas parte repetidas de página a página como 
 
 Essa técnica é bem simples de ser aplicada, basta o desenvolvedor colocar a regra que o elemento deve ficar escondido até enquanto não estiver em foco, ou seja, o elemento não aparecerá em tela, a não se que o usuário use o teclado, com a tecla "tab" e chegue no elemento.
 
+## Suporte a telas pequenas ou com zoom
+
+O desenvolvedor deve ser capaz de fazer o conteúdo caber em uma de de 320px por 320px, segundo recomendações do W3C. Esse valor é derivado de uma resolução de 1280px com 400% de zoom. Com isso fica claro que o zoom não deve ser bloqueado e telas maiores do que 320px não devem ter duas rolagens (horizontal e vertical) para conseguir ver o conteúdo.
+
 ## Teclas de atalho
 
 Sabemos que quando trabalhamos com algum software todos os dias, vamos aos poucos pegando seus atalhos e nos tornando mais produtivos. Agora, imagine o quanto além de ajudar no rendimento os atalhos podem auxiliar as pessoas que não usam mouse e ou não enxergam.
@@ -63,10 +67,6 @@ Não, as páginas e aplicativos não precisam estar traduzidas para todos os idi
 ## Não: Recarregar páginas
 
 A tarefa do dev aqui seria fazer uma implementação que não recarregue a página. Depois do Ajax não precisamos mais carregar uma página nova a cada interação, como envio e formulário ou algum clique para abrir algum elemento.
-
-## Não: Bloquear zoom
-
-O desenvolvedor deve ser capaz de fazer o conteúdo caber em uma de de 320px por 320px, segundo recomendações do W3C.
 
 <br>
 
