@@ -58,7 +58,29 @@ O desenvolvedor deve ser capaz de fazer o conteúdo caber em uma de de 320px por
 
 ## Teclas de atalho
 
-Sabemos que quando trabalhamos com algum software todos os dias, vamos aos poucos pegando seus atalhos e nos tornando mais produtivos. Agora, imagine o quanto além de ajudar no rendimento os atalhos podem auxiliar as pessoas que não usam mouse e ou não enxergam. Pensando no simples ato de salvar um arquivo em um editor de textos como Word, é bem intuitivo usarmos o famoso CTRL + S, porém sem esse atalho teríamos apenas formas mais trabalhosas de fazer o mesmo, com o mouse, acessando a aba arquivo e percorrer até salvar, ou com o teclado, pressionando a tecla ALT e descer até a mesma opção. 
+Sabemos que quando trabalhamos com algum software todos os dias, vamos aos poucos pegando seus atalhos e nos tornando mais produtivos. Agora, imagine o quanto além de ajudar no rendimento os atalhos podem auxiliar as pessoas que não usam mouse e ou não enxergam. Pensando no simples ato de salvar um arquivo em um editor de textos como Word, é bem intuitivo usarmos o famoso CTRL + S, porém sem esse atalho teríamos apenas formas mais trabalhosas de fazer o mesmo, com o mouse, acessando a aba arquivo e percorrer até salvar, ou com o teclado, pressionando a tecla ALT e descer até a mesma opção.
+
+## Uso dos WAI-ARIA (web)
+
+Para os usuários que não sabem, os atributos HTML `role` e `aria-` são da especifiação do W3C WAI chamados de WAI-ARIA que significa Aplicações de Internet Rica Acessível. A necessidade desses atributos surgiu após o AJAX, onde as páginas deixaram de serem apenas documentos de textos e imagens para terem muito mais intereções, sem que haja o recarregamento da página.
+
+Os atributos Aria enriquecem os elementos HTML dando a eles mais significado do que originalmente eles têm. Os WAI-ARIA são "livres" da especificação do W3C, ou seja, pode evoluir muito mais rápido, e é por isso do seu uso, servem muitas vezes para complementar uma informação enquanto a especificação do W3C não fizer.
+
+Os atributos ARIA tem 3 funções:
+
+- dizer o papel, com o atributo `role`;
+- dizer a função com um atributo `aria-`;
+- dizer o estado com outro atributo `aria-`.
+
+O role serve então para dizer alguma função que o elemento HTML não "soube dizer", por exemplo `<button type="button role="switch">`. O role deve ser evitado quando ele muda a função de um elemento HTML, por exemplo: `<div role="button>`, isso deve ser evitado, pois um elemento nativo HTML possui várias propriedades, comportamento e muito mais compatibilidade com os navegadores atuais e futuros.
+
+O atributo ARIA de função, pode dizer o que aquele elemento faz, por exemplo `  <form aria-label="search-form">`
+
+O atributo ARIA de estado, como o nome diz, informa como o elemento está `<button type="button" role="switch" aria-checked="true">`. Essa informação é muito importante para uma pessoa que não enxerga, para facilmente saber o estado daquele elemento.
+
+## Escolha de bibliotecas
+
+Primeiramente não existe uma ferramente ou biblioteca milagrosa que tornará um site acessível, porém, se bem escolhidas, com elas o trabalho do dev pode ficar muito mais fácil para tornar acessível, ou se mal escolhido, impossível de ser acessível. Existem bibliotecas como foco na acessibilidade, por exemplo o AMP, em que vem com seus componentes acessíveis prontos para serem usados. Já existem outras que dão a possibilidade do dev tornar acessível, por exemplo o Material UI.
 
 ## Idioma
 
