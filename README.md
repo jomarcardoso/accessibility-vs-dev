@@ -82,6 +82,10 @@ O atributo ARIA de estado, como o nome diz, informa como o elemento está `<butt
 
 Primeiramente não existe uma ferramente ou biblioteca milagrosa que tornará um site acessível, porém, se bem escolhidas, com elas o trabalho do dev pode ficar muito mais fácil para tornar acessível, ou se mal escolhido, impossível de ser acessível. Existem bibliotecas como foco na acessibilidade, por exemplo o AMP, em que vem com seus componentes acessíveis prontos para serem usados. Já existem outras que dão a possibilidade do dev tornar acessível, por exemplo o Material UI.
 
+## Criação de componentes acessíveis
+
+Com ou sem uso de bibliotecas.
+
 ## Idioma
 
 Não, as páginas e aplicativos não precisam estar traduzidas para todos os idiomas, porém é preciso especificar o idioma para que leitores de tela façam a correta leitura.
