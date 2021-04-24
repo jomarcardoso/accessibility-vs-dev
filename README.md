@@ -95,9 +95,15 @@ Não, as páginas e aplicativos não precisam estar traduzidas para todos os idi
 <p lang="ru-Cyrl-BY">
 ```
 
-## Não: Recarregar páginas
+## O que não deve ser feito
+
+### Recarregar página
 
 A tarefa do dev aqui seria fazer uma implementação que não recarregue a página. Depois do Ajax não precisamos mais carregar uma página nova a cada interação, como envio e formulário ou algum clique para abrir algum elemento.
+
+### Alternativas textuais sem utilidade
+
+Os textos alternativos devem agregar ao conteúdo. Ter por exemplo uma alternativa textual de uma imagem dizendo o mesmo que o texto ao lado, não é útil e ainda atrasa na leitura a página. Quando a imagem é meramente decorativa ou não tem como saber o conteúdo dela, é preferível o colocar o atributo alt vazio. `<img alt="">`.
 
 <br>
 
