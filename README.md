@@ -88,7 +88,12 @@ Com ou sem uso de bibliotecas.
 
 ## Idioma
 
-Não, as páginas e aplicativos não precisam estar traduzidas para todos os idiomas, porém é preciso especificar o idioma para que leitores de tela façam a correta leitura.
+Não, as páginas e aplicativos não precisam estar traduzidas para todos os idiomas, porém é preciso especificar o idioma para que leitores de tela façam a correta leitura. Na web é identificado o idioma no elemento raiz, porém muitos não sabem que o atributo "lang" é global e pode ser usado em qualquer outro elemento HTML, isso é útil para informar se algum trecho da página muda de idioma.
+
+```html
+<html lang="pt-BR">
+<p lang="ru-Cyrl-BY">
+```
 
 ## Não: Recarregar páginas
 
