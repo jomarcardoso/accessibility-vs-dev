@@ -80,7 +80,7 @@ O atributo ARIA de estado, como o nome diz, informa como o elemento está `<butt
 
 ## Escolha de bibliotecas
 
-Primeiramente não existe uma ferramente ou biblioteca milagrosa que tornará um site acessível, porém, se bem escolhidas, com elas o trabalho do dev pode ficar muito mais fácil para tornar acessível, ou se mal escolhido, impossível de ser acessível. Existem bibliotecas como foco na acessibilidade, por exemplo o AMP, em que vem com seus componentes acessíveis prontos para serem usados. Já existem outras que dão a possibilidade do dev tornar acessível, por exemplo o Material UI.
+Primeiramente não existe uma ferramenta ou biblioteca milagrosa que tornará um site acessível, porém, se bem escolhidas, com elas o trabalho do dev pode ficar muito mais fácil para tornar acessível, ou se mal escolhido, impossível de ser acessível. Existem bibliotecas como foco na acessibilidade, por exemplo o AMP, em que vem com seus componentes acessíveis prontos para serem usados. Já existem outras que dão a possibilidade do dev tornar acessível, por exemplo o Material UI.
 
 ## Criação de componentes acessíveis
 
