@@ -84,7 +84,7 @@ Primeiramente não existe uma ferramenta ou biblioteca milagrosa que tornará um
 
 ## Criação de componentes acessíveis
 
-Com ou sem uso de bibliotecas.
+Essa parte talvez não esteja escrito em nenhum livro, mas achei muito importante colocar no [meu TCC](https://onedrive.live.com/?authkey=%21AAeLShjixe9fz84&cid=00664A182AE91239&id=664A182AE91239%2156186&parId=664A182AE91239%2155844&o=OneUp). O conceito de Componente surgiu num livro de arquitetura civil chamado Uma Linguagem de padrões e nele é explicado de que cada problema é solucionado apenas uma vez e que devemos usar aquele padrão criado para criar um padrões maiores. No desenvolvimento chamamos esses padrões de Componentes. Com ou sem uso de bibliotecas devemos ter esse componentes com todos os problemas de acessibilidade solucionados e assim replicarmos o que já está bom pelo projeto.
 
 ## Idioma
 
