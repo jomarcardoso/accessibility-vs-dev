@@ -103,7 +103,7 @@ A tarefa do dev aqui seria fazer uma implementação que não recarregue a pági
 
 ### Alternativas textuais sem utilidade
 
-Os textos alternativos devem agregar ao conteúdo. Ter por exemplo uma alternativa textual de uma imagem dizendo o mesmo que o texto ao lado, não é útil e ainda atrasa na leitura a página. Quando a imagem é meramente decorativa ou não tem como saber o conteúdo dela, é preferível o colocar o atributo alt vazio. `<img alt="">`. Se fosse descrever a imagem de uma bota Schutz tratorada não seria o nome da bota e sim, uma bota preta, com um salto médio, quadrado, uma sola com aspecto robusto, como um pneu com garras usados em offroad, cano médio, sem cadarço...
+Os textos alternativos devem agregar ao conteúdo. Ter por exemplo uma alternativa textual de uma imagem dizendo o mesmo que o texto ao lado, não é útil e ainda atrasa na leitura a página. Quando a imagem é meramente decorativa ou não tem como saber o conteúdo dela, é preferível o colocar o atributo alt vazio. `<img alt="">`. Se fosse descrever a imagem de uma bota Schutz tratorada não seria o nome da bota e sim, uma bota preta, com um salto médio, quadrado, uma sola com aspecto robusto, como um pneu com garras usados em off-road, cano médio, sem cadarço...
 
 <br>
 
