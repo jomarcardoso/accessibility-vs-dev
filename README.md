@@ -99,7 +99,7 @@ Não, as páginas e aplicativos não precisam estar traduzidas para todos os idi
 
 ### Recarregar página
 
-A tarefa do dev aqui seria fazer uma implementação que não recarregue a página. Depois do Ajax não precisamos mais carregar uma página nova a cada interação, como envio e formulário ou algum clique para abrir algum elemento.
+A tarefa do dev aqui seria fazer uma implementação que não recarregue a página. Depois do Ajax não precisamos mais carregar uma página nova a cada interação, como envio de formulário ou algum clique para abrir algum elemento.
 
 ### Alternativas textuais sem utilidade
 
